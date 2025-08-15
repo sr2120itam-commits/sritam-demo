@@ -1,4 +1,4 @@
 # sritam-demo
 This is my first Repository
 <br>
-Author-Sritam Maharana
+Author-Sritam Maharana(It's me)
